@@ -2,7 +2,7 @@
 
 # Coffee-Bean-Sales-Data-Analysis-On-Excel
 _**Unlocking Coffee's Hidden Potential - A Journey Through Data**_
-The Coffee Bean Sales Dataset offers a multifaceted exploration of the thriving coffee industry, providing a comprehensive view of sales, customer profiles, and coffee product details. This rich dataset is a gateway to understanding consumer behavior, optimizing product offerings, and improving business strategies in the world of coffee.
+- The Coffee Bean Sales Dataset offers a multifaceted exploration of the thriving coffee industry, providing a comprehensive view of sales, customer profiles, and coffee product details. This rich dataset is a gateway to understanding consumer behavior, optimizing product offerings, and improving business strategies in the world of coffee.
 
 ## Author
 - [@saadharoon27](https://github.com/saadharoon27)
