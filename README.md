@@ -15,7 +15,7 @@ _**Unlocking Coffee's Hidden Potential - A Journey Through Data**_
 - [Method](#method)
 - [Quick Glance At The Dashboard](#quick-glance-at-the-dashboard)
 - [Data Overview](#data-overview)
-- [Step By Step Procedure](#step-by-step-procedure)
+- [Step By Step Changes](#step-by-step-changes)
 - 
 - [Business Insights](#business-insights)
 - [Business Suggestion](#business-suggestion)
@@ -54,9 +54,9 @@ Data on coffee bean sales are divided into 3 separate sheets:
 | **Customers**    	              | Customer ID (Primary Key)<br>Customer Name<br>Email<br>Phone Number<br>Address Line 1<br>City<br>Country<br>Postcode<br>Loyalty Card         |
 | **Products**               	    | Product ID (Primary Key)<br>Coffee Type<br>Roast Type<br>Size<br>Unit Price<br>Price Per 100g<br>Profit 	                                     |
 
-## Steps By Step Procedure
+## Step By Step Changes
 
-**Data Gathering and Cleaning**
+**Data Gathering and Cleaning**<br>
 To create a comprehensive table encompassing all details related to product orders, and to enhance the usability of the data for subsequent analysis, various columns from the _Customers_ and _Products_ tables have been combined within the _Orders_ table. These combined columns facilitate a more cohesive representation of the information pertaining to product orders, allowing for more effective analytical processes.
 
 **Columns selected are:**
@@ -86,5 +86,6 @@ The techniques employed to retrieve data from the _Customers Table_ involve the 
 - 7.	**Unit Price and Sales Column:** Changed to currency and _$_ symbol was added.
 - 8.	**Loyal Card:** Added a new column that checks whether the customer has a loyalty card or not.
 
+**Extra Adjustments**
 - Examined for duplicate variables across all columns in the Data Tab, and no instances of duplicate entries were detected. 
-- Before moving to plot Pivot charts and tables, a step was taken to convert the entire data range into a table format named “Orders”. This transformation holds the advantage of ensuring that any future alterations in the dataset will seamlessly reflect in the pivot table and graphs, eliminating the need for manual adjustments. This dynamic synchronization enhances the efficiency and accuracy of data analysis processes.
+- Before moving to plot Pivot charts and tables, a step was taken to convert the entire data range into a table format named _“Orders”_. This transformation holds the advantage of ensuring that any future alterations in the dataset will seamlessly reflect in the pivot table and graphs, eliminating the need for manual adjustments. This dynamic synchronization enhances the efficiency and accuracy of data analysis processes.
