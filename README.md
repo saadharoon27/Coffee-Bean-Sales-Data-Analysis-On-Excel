@@ -25,16 +25,13 @@ The primary objectives include identifying top customers, tracking coffee-type s
 
 ## Objective, Solution, and Outcome
 **Overall Objectives:** <br>
-- Identify top customers for personalized engagement.
+- Identify top 5 customers
 - Track coffee-type sales trends for better inventory management.
-- Analyze sales by country to aid expansion and localization.
-- Enable data-driven decision-making and strategic planning.
+- Analyze sales by country to aid expansion.
 
 **Solution Requirements:** <br>
 - User-friendly and visually appealing dashboard.
-- Real-time or regularly updated insights.
 - Interactive visualizations for trend identification.
-- Data security and privacy measures.
 
 **Expected Outcomes:** <br>
 The Coffee Sales Dashboard will give actionable insights to boost sales, improve customer satisfaction, and drive strategic expansion efforts.
