@@ -18,10 +18,12 @@ _**Unlocking Coffee's Hidden Potential - A Journey Through Data**_
 - [Business Suggestion](#business-suggestion)
 
 ## Business Problem
+
 **Business Problem Statement:**
 The primary objectives include identifying top customers, tracking coffee-type sales trends, and analyzing sales by country. The dashboard should enable customer engagement and loyalty strategies, optimize product offerings, and support geographical expansion efforts.
  
 **Overall Objectives:**
+
 Identify top customers for personalized engagement.
 Track coffee type sales trends for better inventory management.
 Analyze sales by country to aid expansion and localization.
