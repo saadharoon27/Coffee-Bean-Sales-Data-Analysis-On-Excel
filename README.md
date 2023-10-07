@@ -56,7 +56,18 @@ Data on coffee bean sales are divided into 3 separate sheets:
 
 ## Steps By Step Procedure
 
-- **Data Cleaning**
+- **Data Gathering and Cleaning**
+To create a comprehensive table encompassing all details related to product orders, and to enhance the usability of the data for subsequent analysis, various columns from the _Customers_ and _Products_ tables have been combined within the _Orders_ table. These combined columns facilitate a more cohesive representation of the information pertaining to product orders, allowing for more effective analytical processes.
+
+**Column selected are:**
+
+| **Customers Sheet**     	            || **Products Sheet**     |
+|-------------------	        ||------------------	       |
+| Customer Name     	                || Coffee Type|
+| Email    	              || Roast Type|
+| Country               	    || Size|
+                                |Unit Price|
+
   - **Gender column:** Replaced the categorical value _‘M’_ and _‘W’_ values to _‘Men’_ and _‘Women’_.
   - **Quantity column:** Replaced the values _‘One’_ and _‘Two’_ to _‘1’_ and _‘2’_ respectively.
 
