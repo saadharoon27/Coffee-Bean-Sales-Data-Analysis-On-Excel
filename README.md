@@ -12,9 +12,9 @@ _**Unlocking Coffee's Hidden Potential - A Journey Through Data**_
 - [Data Source](#data-source)
 - [Business Problem](#business-problem)
 - [Objective, Solution, and Outcome](#objective-solution-and-outcome)
-- 
 - [Method](#method)
 - [Quick Glance At The Dashboard](#quick-glance-at-the-dashboard)
+- 
 - [Step By Step Procedure](#step-by-step-procedure)
 - [Business Insights](#business-insights)
 - [Business Suggestion](#business-suggestion)
@@ -41,3 +41,11 @@ The Coffee Sales Dashboard will give actionable insights to boost sales, improve
 
 ## Data Source
 - [Coffee Beans Sales Dataset](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset)
+
+## Method
+- Exploratory data analysis _(EDA)_
+
+## Quick Glance At The Dashboard
+![dashboard](Assets/dashboard.png)
+
+
