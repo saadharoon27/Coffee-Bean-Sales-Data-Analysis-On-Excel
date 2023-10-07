@@ -50,8 +50,7 @@ The Coffee Sales Dashboard will give actionable insights to boost sales, improve
 Data on coffee bean sales are divided into 3 separate sheets:
 | Sheet Name     	            | Column Names    	|
 |-------------------	        |------------------	|
-| Orders     	                | Order ID (Primary Key), 
-Order Date, Customer ID, Product ID, Quantity Ordered                                              |
+| Orders     	                | Order ID (Primary Key), <br>Order Date, Customer ID, Product ID, Quantity Ordered                                              |
 | Customers    	              | Customer ID (Primary Key), Customer Name, Email, Phone Number, Address Line 1, City, Country, Postcode, Loyalty Card|
 | Products               	    | Product ID (Primary Key), Coffee Type, Roast Type, Size, Unit Price, Price Per 100g, Profit 	                             |
 
