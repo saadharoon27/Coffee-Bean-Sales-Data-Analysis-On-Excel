@@ -11,7 +11,7 @@ _**Unlocking Coffee's Hidden Potential - A Journey Through Data**_
 - [Business Problem](#business-problem)
 - [Data Source](#data-source)
 - [Business Problem](#business-problem)
-- [Objective, Solution, and Outcome](#objective,-solution,-and-outcome)
+- [Objective, Solution, and Outcome](#objective-solution-and-outcome)
 - 
 - [Method](#method)
 - [Quick Glance At The Dashboard](#quick-glance-at-the-dashboard)
