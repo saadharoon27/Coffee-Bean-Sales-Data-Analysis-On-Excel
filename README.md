@@ -61,12 +61,19 @@ To create a comprehensive table encompassing all details related to product orde
 
 **Column selected are:**
 
-| **Customers Sheet**     	            || **Products Sheet**     |
-|-------------------	        ||------------------	       |
-| Customer Name     	                || Coffee Type|
-| Email    	              || Roast Type|
-| Country               	    || Size|
-                                |Unit Price|
+| **Customers Sheet** |
+|-------------------	|
+| Customer Name     	|               
+| Email    	          |
+| Country             |
+                                
+| **Products Sheet** |
+|------------------	 |
+| Coffee Type|
+| Roast Type |
+| Size       |
+|Unit Price  |
+
 
   - **Gender column:** Replaced the categorical value _‘M’_ and _‘W’_ values to _‘Men’_ and _‘Women’_.
   - **Quantity column:** Replaced the values _‘One’_ and _‘Two’_ to _‘1’_ and _‘2’_ respectively.
