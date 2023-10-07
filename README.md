@@ -1,4 +1,4 @@
-![banner](asset/Banner.jpg)
+![banner](Assets/Banner.jpg)
 
 # Coffee-Bean-Sales-Data-Analysis-On-Excel
 
