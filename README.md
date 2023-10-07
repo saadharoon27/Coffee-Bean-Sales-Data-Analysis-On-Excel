@@ -43,6 +43,6 @@ The Coffee Sales Dashboard will give actionable insights to boost sales, improve
 - Exploratory data analysis _(EDA)_
 
 ## Quick Glance At The Dashboard
-![dashboard](Assets/dashboard.png)
+![dashboard](Assets/Glance.png)
 
 
