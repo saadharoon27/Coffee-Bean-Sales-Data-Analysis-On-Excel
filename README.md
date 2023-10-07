@@ -19,8 +19,21 @@ _**Unlocking Coffee's Hidden Potential - A Journey Through Data**_
 
 ## Business Problem
 **Business Problem Statement:**
+The primary objectives include identifying top customers, tracking coffee-type sales trends, and analyzing sales by country. The dashboard should enable customer engagement and loyalty strategies, optimize product offerings, and support geographical expansion efforts.
  
- The primary objectives include identifying top customers, tracking coffee-type sales trends, and analyzing sales by country. The dashboard should enable customer engagement and loyalty strategies, optimize product offerings, and support geographical expansion efforts.
+**Overall Objectives:**
+Identify top customers for personalized engagement.
+Track coffee type sales trends for better inventory management.
+Analyze sales by country to aid expansion and localization.
+Enable data-driven decision-making and strategic planning.
+Solution Requirements:
+
+User-friendly and visually appealing dashboard.
+Real-time or regularly updated insights.
+Interactive visualizations for trend identification.
+Data security and privacy measures.
+Expected Outcomes:
+The Coffee Sales Dashboard will empower Vrinda Coffee Roasters with actionable insights to boost sales, improve customer satisfaction, and drive strategic expansion efforts.
 
 ## Data Source
 - [Coffee Beans Sales Dataset](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset)
